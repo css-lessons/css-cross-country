@@ -22,3 +22,8 @@ h2 {
   padding: 20px;
   width: 260px;
 }
+
+section.content.home {
+  border: none;
+}
+
