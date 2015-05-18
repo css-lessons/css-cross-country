@@ -16,3 +16,9 @@ h1 {
   padding: 20px;
   width: 260px;
 }
+
+#slogan {
+  font-style: italic;
+  text-align: center;
+}
+
