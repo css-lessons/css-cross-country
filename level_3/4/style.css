@@ -9,6 +9,7 @@ body {
 
 footer {
   width: 260px;
+  position: relative;
 }
 
 .newsletter {
