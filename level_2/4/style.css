@@ -84,14 +84,14 @@ h3 {
   color: #7ab2c1;
 }
 
-.active a {
-  color: #826c55 !important;
+.main li.active a {
+  color: #826c55;
 }
 
 .primary p {
   font-size: 12px;
 }
 
-.copyright {
-  font-size: 10px !important;
+.primary p.copyright {
+  font-size: 10px;
 }
