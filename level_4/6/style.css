@@ -14,6 +14,12 @@ ul {
   list-style: none;
 }
 
+nav ul {
+  width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 nav li a {
   font-weight: bold;
 }
