@@ -79,3 +79,8 @@ h3 {
 .group {
   zoom: 1;
 }
+
+aside p a {
+  font-style: normal;
+}
+
