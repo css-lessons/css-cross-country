@@ -84,19 +84,19 @@ h3 {
   zoom: 1;
 }
 
-#home a {
+.home a {
   color: #c09e79;
 }
 
-#home article .button {
+a.button {
   color: #fff;
 }
 
-.button:hover, .button:focus {
+a.button:hover, a.button:focus {
   background: #6da3b2;
 }
 
-.button, .more {
+a.button, .more {
   background: #7ab2c1;
   border-radius: 3px;
   color: #fff;
