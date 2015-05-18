@@ -9,6 +9,8 @@ section {
 aside {
   font-style: italic;
   width: 120px;
+  float: right;
+  margin: 0 0 10px 10px;
 }
 
 p {
@@ -32,3 +34,9 @@ h3 {
   font: bold 16px/20px Tahoma, Arial, sans-serif;
   margin: 0 0 15px;
 }
+
+article {
+  float: left;
+  width: 120px;
+}
+
