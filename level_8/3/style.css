@@ -21,3 +21,7 @@ ol, ul {
 .hours li {
   padding: 5px 10px;
 }
+
+.hours > *:nth-child(4n+1) {
+  background-color: #c5c9cf;
+}

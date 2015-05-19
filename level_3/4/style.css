@@ -8,6 +8,7 @@ body {
 }
 
 footer {
+  position: relative;
   width: 260px;
 }
 

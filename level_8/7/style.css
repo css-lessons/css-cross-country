@@ -53,3 +53,14 @@ a.store {
   bottom: -3px;
   right: -3px;
 }
+
+.store:hover:before {
+  top: -5px;
+  left: -5px;
+}
+
+.store:hover:after {
+  bottom: -5px;
+  right: -5px;
+}
+
