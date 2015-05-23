@@ -5,6 +5,9 @@ section {
 }
 
 aside {
+  float: right;
+  margin-bottom: 10px;
+  margin-left: 10px;
   font-style: italic;
   width: 120px;
 }
