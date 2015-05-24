@@ -9,6 +9,12 @@ section {
 aside {
   font-style: italic;
   width: 120px;
+  float: left;
+}
+
+article {
+  width: 120px;
+  float: left;
 }
 
 p {
