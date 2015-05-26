@@ -12,6 +12,8 @@ nav {
 
 ul {
   list-style: none;
+  width: 250px;
+  margin: 12px auto;
 }
 
 nav li a {
