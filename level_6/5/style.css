@@ -30,3 +30,8 @@ ul.store li {
   width: 150px;
   overflow: hidden;
 }
+
+.store li {
+  width: 150px;
+  height: auto;
+}
