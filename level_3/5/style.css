@@ -18,6 +18,7 @@ footer {
   font-size: 12px;
   margin: 0;
   text-align: center;
+  z-index: 1;
 }
 
 .newsletter a {
@@ -39,6 +40,9 @@ p {
 }
 
 footer figure {
+  position: absolute;
+  top: 0;
+  right: 0;
   background: #e0e2e6;
   border: 1px solid #c5c9cf;
   height: 88px;
