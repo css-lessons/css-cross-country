@@ -80,18 +80,18 @@ h3 {
   zoom: 1;
 }
 
-.main li a {
+.main a {
   color: #7ab2c1;
 }
 
-.active a {
-  color: #826c55 !important;
+.main .active a {
+  color: #826c55;
 }
 
 .primary p {
   font-size: 12px;
 }
 
-.copyright {
-  font-size: 10px !important;
+.primary .copyright {
+  font-size: 10px;
 }
