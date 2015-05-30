@@ -7,6 +7,9 @@ section {
 aside {
   font-style: italic;
   width: 120px;
+  float: right;
+  margin-left: 10px;
+  margin-bottom: 10px;
 }
 
 p {
