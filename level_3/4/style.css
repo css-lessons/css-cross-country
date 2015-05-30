@@ -9,13 +9,10 @@ body {
 
 footer {
   position: relative;
-  padding-bottom: 19px; /* Push .newsletter paragraph 1 line down */
   width: 260px;
 }
 
 .newsletter {
-  position: absolute;
-  bottom: 0;
   width: 100%;
 }
 
