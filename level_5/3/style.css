@@ -14,7 +14,7 @@ h1 {
   text-align: center;
 }
 
-section article p {
+p {
   background: #e0e2e6;
   font-size: 15px;
   line-height: 20px;
@@ -26,6 +26,5 @@ section article p {
 
 section article h1 {
   font-size: 20px;
-  font-family: tahoma, arial, sans-serif;
-  margin: 0 0 20px 0;
+  margin-bottom: 20px;
 }
