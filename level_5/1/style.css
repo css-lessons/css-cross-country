@@ -4,7 +4,7 @@ body {
 }
 
 header {
-  margin-top: 20px;
+  margin: 20px 0;
 }
 
 h1 {
@@ -39,6 +39,7 @@ p {
 
 aside {
   font-style: italic;
+  margin: 20px 0;
 }
 
 aside p {

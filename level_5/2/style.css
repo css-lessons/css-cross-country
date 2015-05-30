@@ -5,11 +5,8 @@ body {
 
 header, article, aside {
   padding: 10px;
+  margin: 0 0 20px;
   background: #e0e2e6;
-}
-
-article {
-  margin: 20px 0;
 }
 
 h1 {
