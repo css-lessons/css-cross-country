@@ -18,6 +18,7 @@ footer {
   font-size: 12px;
   margin: 0;
   text-align: center;
+  z-index: 1;
 }
 
 .newsletter a {
@@ -50,10 +51,9 @@ footer figure {
 
 figure {
   display: block;
-  -webkit-margin-before: 1em;
-  -webkit-margin-after: 1em;
-  -webkit-margin-start: 40px;
-  -webkit-margin-end: 40px;
+  position: absolute;
+  top: 0;
+  right: 0;
 }
 
 h4 {
