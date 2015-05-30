@@ -39,9 +39,10 @@ a:hover, a:focus {
 }
 
 .sidebar .featured, .sidebar .sales {
-  background: url() no-repeat;
+  background: url('sidebar.png') no-repeat;
   padding-left: 50px;
 }
 
 .sidebar .sales {
+  background-position: 0 -80px;
 }

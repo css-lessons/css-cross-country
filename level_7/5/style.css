@@ -46,3 +46,11 @@ a:hover, a:focus {
 .sidebar .sales {
   background-position: 0 -80px;
 }
+
+.sidebar .sales:focus, .sales:hover {
+  background-position: 0 -120px;
+}
+
+.sidebar .featured:focus, .featured:hover {
+  background-position: 0 -40px;
+}
