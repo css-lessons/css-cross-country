@@ -10,6 +10,11 @@ nav {
   padding: 5px 15px;
 }
 
+nav ul {
+  width: 250px;
+  margin: 12px auto;
+}
+
 ul {
   list-style: none;
 }

@@ -4,7 +4,6 @@ body {
 }
 
 article h1 {
-  color: #444;
   text-align: left;
 }
 
@@ -15,7 +14,7 @@ h1 {
   text-align: center;
 }
 
-article p {
+article p, h1 {
   color: #444;
 }
 
@@ -23,8 +22,4 @@ p {
   font-size: 14px;
   line-height: 19px;
   margin: 0 0 15px;
-}
-
-article p.disclaimer {
-  color: #444;
 }
