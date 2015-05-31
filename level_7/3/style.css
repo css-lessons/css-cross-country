@@ -25,14 +25,15 @@ a {
   background: url(logo3.png);
   display: block;
   height: 75px;
+  margin: 0 auto 15px;
   text-indent: -9999px;
   width: 250px;
 }
 
-.logo {
-  margin: 0 auto 15px;
-}
-
 .logo:hover, .logo:focus {
   background-position: 0 -75px;
+}
+
+.logo:active {
+  background-position: 0 -150px;
 }
