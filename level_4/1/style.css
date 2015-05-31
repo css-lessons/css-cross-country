@@ -1,30 +1,19 @@
 body {
-  color: #706c6e;
   font-family: Tahoma, Arial, sans-serif;
 }
 
-article h1 {
+article {
   color: #444;
-  text-align: left;
 }
 
 h1 {
-  color: #7ab2c1;
-  font: bold 22px/28px Tahoma, Arial, sans-serif;
+  font-size: 22px;
+  font-weight: bold;
   margin: 0 0 10px;
-  text-align: center;
-}
-
-article p {
-  color: #444;
 }
 
 p {
   font-size: 14px;
   line-height: 19px;
   margin: 0 0 15px;
-}
-
-article p.disclaimer {
-  color: #444;
 }

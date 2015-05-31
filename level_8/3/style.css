@@ -4,7 +4,7 @@ body {
 }
 
 article h1 {
-  text-indent: left;
+  text-align: left;
 }
 
 h1 {
@@ -20,4 +20,8 @@ ol, ul {
 
 .hours li {
   padding: 5px 10px;
+}
+
+.hours li:nth-child(4n + 1) {
+  background-color: #c5c9cf;
 }

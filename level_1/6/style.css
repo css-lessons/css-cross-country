@@ -7,8 +7,18 @@ section {
 }
 
 aside {
+  float: right;
+  margin-left: 10px;
+  margin-bottom: 10px;
   font-style: italic;
   width: 120px;
+}
+
+article {
+  width: 120px;
+  float: left;
+  margin-left: 10px;
+  margin-bottom: 10px;
 }
 
 p {

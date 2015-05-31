@@ -29,6 +29,10 @@ a {
   width: 250px;
 }
 
+.logo:hover {
+  background-position: 0 -75px;
+}
+
 .logo {
   margin: 0 auto 15px;
 }
