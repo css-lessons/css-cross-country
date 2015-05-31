@@ -5,17 +5,15 @@ body {
 }
 
 header {
-  margin: 0 0 20px 0;
-}
-
-header {
   border: 2px solid #ccc;
   padding: 20px;
 }
 
 h1 {
   color: #7ab2c1;
-  font: bold 22px/28px Tahoma, Arial, sans-serif;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 28px;
   margin: 0 0 10px;
   text-align: center;
 }
@@ -26,7 +24,7 @@ h2 {
   text-align: center;
 }
 
-article {
+header, article {
   margin: 0 0 20px 0;
 }
 
