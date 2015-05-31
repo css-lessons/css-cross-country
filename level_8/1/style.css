@@ -8,3 +8,8 @@ p {
   line-height: 19px;
   margin: 0 0 15px;
 }
+
+p:first-child {
+  font-style: italic;
+  color: #999;
+}
