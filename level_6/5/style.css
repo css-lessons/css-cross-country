@@ -26,7 +26,6 @@ ul.store li {
 }
 
 .store li {
-  height: 150px;
   width: 150px;
   overflow: hidden;
 }
