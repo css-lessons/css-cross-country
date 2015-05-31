@@ -46,16 +46,12 @@ a:hover, a:focus {
 }
 
 .more {
-  background-color: #c09d78;
   display: block;
   position: relative;
   padding: 0 50px;
-}
-
-.more {
   line-height: 40px;
   margin: 15px 0;
-  padding: 0 50px;
+  background: #c09d78 url("arrow.png") no-repeat right;
 }
 
 .more:hover, .more:focus {
